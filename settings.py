@@ -8,3 +8,7 @@ class Settings:
         self.screen_height = 800
         self.bg_image_location = "assets/game_background.jpg"
         self.ship_image = "assets/ship.bmp"
+
+        # Ship settings
+        self.ship_speed = 5.5
+
